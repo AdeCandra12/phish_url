@@ -28,9 +28,7 @@ Aplikasi ini menggunakan model yang telah dilatih dan ditampilkan melalui **dash
 
 Clone repository:
 
-```bash
 git clone https://github.com/username/nama-repository.git
-```
 
 Masuk ke folder project:
 
