@@ -26,7 +26,7 @@ Aplikasi web sederhana berbasis Machine Learning untuk mendeteksi apakah sebuah 
 
 Clone repository:
 
-git clone https://github.com/username/nama-repository.git
+`git clone https://github.com/username/nama-repository.git`
 
 Masuk ke folder project:
 
